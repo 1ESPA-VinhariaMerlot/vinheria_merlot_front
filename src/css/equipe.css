@@ -1,0 +1,69 @@
+.descricao {
+  padding: 36px;
+  border-radius: 30px;
+  width: 15%;
+  font-size: 30px ;
+  background-color: lightgray; 
+  color: #333;                            
+   
+  }
+  
+
+
+.equipe {
+  padding: 16px;
+  border-radius: 30%;
+  width: 25rem;
+ 
+}
+
+.nomes {
+    font-size: 2.5em;
+    color: black;
+    margin: 10px;
+  }
+
+.nomes {
+    display: flex;
+    justify-content:left;
+    padding: 20px 0px;
+    max-width: 770px; 
+
+}
+
+
+.sub{
+
+    color: #730A13; 
+    padding: 7px 20px;  
+    max-width: 600px; 
+
+
+}
+
+.titulo{
+  color:black;               
+  padding: 0px 20px;                    
+  max-width: 1000px; 
+} 
+
+
+.descricao::first-letter{
+  font-size: larger;
+  color:white;
+  background-color: #730A13;
+}
+
+.container_equipe{
+padding: 2%;
+}
+
+
+footer {
+    background-color: #730A13;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    margin-top: 10px;
+
+}
